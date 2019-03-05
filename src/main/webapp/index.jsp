@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello World! welcome to the class of devops hi this automation script automationm
-  deplly plugin </h2>
+<h2>Hello World! Ansible and docker and jenkins is the most important tools and scripting  </h2>
 </body>
 </html>
