@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>this is aws but devops also included  </h2>
+<h2>AWS jenkins peridoically job triggers with every minute </h2>
 </body>
 </html>
