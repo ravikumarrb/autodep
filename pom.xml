@@ -6,7 +6,7 @@
 
   <groupId>ravikumar</groupId>
   <artifactId>vishwa</artifactId>
-  <version>mass</version>
+  <version>mass234</version>
   <packaging>war</packaging>
 
   <name>devops Maven Webapp</name>
