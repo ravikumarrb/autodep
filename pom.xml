@@ -6,7 +6,7 @@
 
   <groupId>ravikumar</groupId>
   <artifactId>vishwa</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>mass</version>
   <packaging>war</packaging>
 
   <name>devops Maven Webapp</name>
@@ -29,7 +29,7 @@
   </dependencies>
 
   <build>
-    <finalName>ravikumar</finalName>
+    <finalName>devops</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
